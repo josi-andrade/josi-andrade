@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @josi-andrade
+- 👋 Hi, I’m Josi Andrade!
 - 👀 I’m interested in in new technologies, seeking new knowledge to develop apps that positively impact people's lives.
 - 🌱 I’m currently learning html5, CSS3, Javascript, React Js...
 
